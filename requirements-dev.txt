@@ -1,0 +1,10 @@
+# 开发依赖
+# 安装方式: pip install -r requirements-dev.txt
+# 或者: pip install -r requirements.txt -r requirements-dev.txt
+
+# 代码格式化
+black>=24.0.0
+
+# 代码检查（可选）
+ruff>=0.1.0
+flake8>=6.0.0

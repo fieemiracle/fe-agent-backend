@@ -1,3 +1,4 @@
+# 生产依赖
 fastapi
 uvicorn[standard]
 pydantic-settings
