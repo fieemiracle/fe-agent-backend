@@ -1,6 +1,7 @@
-## FastAPI Minimal Template
+## Fe Agent Backend
 
 ### Run
 
 ```bash
-uvicorn app.main:app --reload
+uvicorn main:app --reload
+```
